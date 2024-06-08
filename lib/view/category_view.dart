@@ -11,8 +11,6 @@ class categoryview extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        // backgroundColor: Colors.black38,
-        // title: const Text('Enjoy'),
       ),
       body: Padding(
         padding: const EdgeInsets.symmetric(horizontal: 16),
